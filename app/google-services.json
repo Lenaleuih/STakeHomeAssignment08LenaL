@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856424789394",
+    "firebase_url": "https://stakehomeassignment08lenal.firebaseio.com",
+    "project_id": "stakehomeassignment08lenal",
+    "storage_bucket": "stakehomeassignment08lenal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856424789394:android:d48fdefa8327ae6e",
+        "android_client_info": {
+          "package_name": "com.example.android.stakehomeassignment08_lenal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856424789394-0uie8snps1vg82nm9nqhqdth0lfftjur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.stakehomeassignment08_lenal",
+            "certificate_hash": "f468a371b6fe428d18dc4dc05f80fecfa87dc012"
+          }
+        },
+        {
+          "client_id": "856424789394-2fucs2ntlc858vj3ejkpa48mn8knbvik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEnLixQQgbdgNi6kK9M5qtrF_w_x2ZL5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856424789394-2fucs2ntlc858vj3ejkpa48mn8knbvik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
